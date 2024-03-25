@@ -41,7 +41,7 @@ Die HackyHour als Format ist inspiriert von der [HACKYHOUR@AUCKLAND](https://uoa
 Das Logo ist abgeleitet von der HackyHour Auckland (mit freundlicher Genehmigung).
 Es nutzt ein public domain <a href="https://thenounproject.com/search/?q=hackathon&i=6324">icon</a>.
 
-![Logo of the Hackyhour](logo/hackyhour_generic.svg "Generic HackyHour Logo")
+![Logo of the Hackyhour](logo/HackyHour_Bildmarke.svg "HackyHour Logo")
 
 ## Lizenz
 Der Inhalt dieser Webseite steht under der [CC0](LICENSE).
