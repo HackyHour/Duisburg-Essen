@@ -13,22 +13,21 @@ Die Hacky Hour ist keine Lehrveranstaltung! Die Hacky Hour ist eine Community, i
 Jede:r ist willkommen, egal, welches Skill-Level Ihr mitbringt!
 
 ## Wann, wie und welche Themen?
-Die HackyHour findet einmal im Monat nachmittags in der Fachbibliothek LK (Erdgeschoss) statt.
+Die HackyHour findet einmal im Monat nachmittags in der Fachbibliothek LK (Erdgeschoss) statt (in der Regel der vierte Donnerstag im Monat).
 Mit dem kostenlosen Shuttle-Bus kommt Ihr schnell von einem Campus zum anderen.
 
 Kein eigenes Thema aber Interesse? Kein Problem! Im Austausch mit der Gruppe lernt man immer dazu oder kann selbst etwas beitragen!
-Für Diskussionen über Themen sind wir immer offen. Wir werden versuchen, in jede HackyHour mit einem spezifischen Thema über einen kleinen Impulsvortrag einzusteigen.  
+Für Diskussionen über Themen sind wir immer offen. Wir werden versuchen, in jede HackyHour mit einem spezifischen Thema über einen kleinen Impulsvortrag einzusteigen. Danach ist Zeit für Fragen und Diskussion.  
 Wenn Du auch gern etwas vortragen möchtest oder Dich für ein bestimmtes Thema interessierst, melde Dich gern bei uns.
 
-## Termine
 Ihr müsst nichts mitbringen und euch auch nicht anmelden. Falls ihr einen Laptop habt, dürft ihr diesen aber mitbringen.
 
-Termine ab Sommersemester werden hier in Kürze veröffentlicht.
+## Termine
 
 | Datum       | Thema     | Weitere Info |
 | ---------- |--------------| ----------:|
 | 25.04.2024 | KI und Visualisierung | Präsentationen, Flowcharts, Bilder, Videos |
-| 23.05.2024 | Mermaid | JavaScript based diagramming and charting tool |
+| 23.05.2024 | Mermaid | JavaScript-basiertes Tool zur Erstellung von Diagrammen und Tabellen  |
 | 27.06.2024 | R | 10 gute Gründe, weshalb ich mit R arbeite |
 | 25.07.2024 | GitLab | Projektorganisation |
 | 22.08.2024 | Python | Was kann Python und wie kann ich es nutzen? |
