@@ -27,7 +27,11 @@ Termine ab Sommersemester werden hier in Kürze veröffentlicht.
 
 | Datum       | Thema     | Weitere Info |
 | ---------- |--------------| ----------:|
-| ... | ... | ... |
+| 25.04.2024 | KI und Visualisierung | Präsentationen, Flowcharts, Bilder, Videos |
+| 23.05.2024 | Mermaid | JavaScript based diagramming and charting tool |
+| 27.06.2024 | R | 10 gute Gründe, weshalb ich mit R arbeite |
+| 25.07.2024 | GitLab | Projektorganisation |
+| 22.08.2024 | Python | Was kann Python und wie kann ich es nutzen? |
 
 ## Kontakt
 Fragen oder Anregungen? Melde dich gern über ein Issue bei GitHub oder per E-Mail bei [Sarah Ann Stock](mailto:sarah.stock@uni-due.de). Oder sprich uns direkt in der HackyHour an.
