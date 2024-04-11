@@ -13,7 +13,7 @@ Die Hacky Hour ist keine Lehrveranstaltung! Die Hacky Hour ist eine Community, i
 Jede:r ist willkommen, egal, welches Skill-Level Ihr mitbringt!
 
 ## Wann, wie und welche Themen?
-Die HackyHour findet einmal im Monat nachmittags in der Fachbibliothek LK (Erdgeschoss) statt (in der Regel der vierte Donnerstag im Monat).
+Die HackyHour findet einmal im Monat um 16:15 Uhr in der Fachbibliothek LK (Erdgeschoss) statt (in der Regel der vierte Donnerstag im Monat).
 Mit dem kostenlosen Shuttle-Bus kommt Ihr schnell von einem Campus zum anderen.
 
 Kein eigenes Thema aber Interesse? Kein Problem! Im Austausch mit der Gruppe lernt man immer dazu oder kann selbst etwas beitragen!
