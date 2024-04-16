@@ -18,7 +18,7 @@ Mit dem kostenlosen Shuttle-Bus kommt Ihr schnell von einem Campus zum anderen.
 
 Kein eigenes Thema aber Interesse? Kein Problem! Im Austausch mit der Gruppe lernt man immer dazu oder kann selbst etwas beitragen!
 Für Diskussionen über Themen sind wir immer offen. Wir werden versuchen, in jede HackyHour mit einem spezifischen Thema über einen kleinen Impulsvortrag einzusteigen. Danach ist Zeit für Fragen und Diskussion.  
-Wenn Du auch gern etwas vortragen möchtest oder Dich für ein bestimmtes Thema interessierst, melde Dich gern bei uns.
+Wenn Du auch gern etwas vortragen möchtest oder Dich für ein bestimmtes Thema interessierst, melde Dich gern per [E-Mail[(mailto:sarah.stock@uni-due.de) oder über den [Rocketchat-Channel](https://chat.uni-due.de/invite/uPbB7a) bei uns.
 
 Ihr müsst nichts mitbringen und euch auch nicht anmelden. Falls ihr einen Laptop habt, dürft ihr diesen aber mitbringen.
 
@@ -33,7 +33,7 @@ Ihr müsst nichts mitbringen und euch auch nicht anmelden. Falls ihr einen Lapto
 | 22.08.2024 | Python | Was kann Python und wie kann ich es nutzen? |
 
 ## Kontakt
-Fragen oder Anregungen? Melde dich gern über ein Issue bei GitHub oder per E-Mail bei [Sarah Ann Stock](mailto:sarah.stock@uni-due.de). Oder sprich uns direkt in der HackyHour an.
+Fragen oder Anregungen? Melde dich gern über unseren [Rocketchat-Channel](https://chat.uni-due.de/invite/uPbB7a) oder per E-Mail bei [Sarah Ann Stock](mailto:sarah.stock@uni-due.de). Oder sprich uns direkt in der HackyHour an.
 
 ## Inspiration
 
