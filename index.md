@@ -37,7 +37,7 @@ Fragen oder Anregungen? Melde dich gern über unseren [Rocketchat-Channel](https
 
 ## Inspiration
 
-Die HackyHour als Format ist inspiriert von der [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) und der [R Study Group](http://minisciencegirl.github.io/studyGroup/).
+Die HackyHour als Format ist inspiriert von der [HACKYHOUR@AUCKLAND](https://uoa-eresearch.github.io/HackyHour/) und der [R Study Group](http://minisciencegirl.github.io/studyGroup/). Die HackyHour in Gießen wurde auch von der HackyHour Göttingen inspiriert.
 
 ## Logo
 
