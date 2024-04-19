@@ -20,7 +20,7 @@ Kein eigenes Thema aber Interesse? Kein Problem! Im Austausch mit der Gruppe ler
 Für Diskussionen über Themen sind wir immer offen. Wir werden versuchen, in jede HackyHour mit einem spezifischen Thema über einen kleinen Impulsvortrag einzusteigen. Danach ist Zeit für Fragen und Diskussion.  
 Wenn Du auch gern etwas vortragen möchtest oder Dich für ein bestimmtes Thema interessierst, melde Dich gern per [E-Mail](mailto:sarah.stock@uni-due.de) oder über den [Rocketchat-Channel](https://chat.uni-due.de/invite/uPbB7a) bei uns.
 
-Ihr müsst nichts mitbringen und euch auch nicht anmelden. Wer mag, kann sich Termine und Infos via "safe the date" per E-Mail schicken lassen. Falls ihr einen Laptop habt, dürft ihr diesen aber mitbringen.
+Ihr müsst nichts mitbringen und euch auch nicht anmelden. Wer mag, kann sich Termine und Infos via "save the date" per E-Mail schicken lassen. Falls ihr einen Laptop habt, dürft ihr diesen aber mitbringen.
 
 ## Termine
 
