@@ -26,7 +26,7 @@ Ihr müsst nichts mitbringen und euch auch nicht anmelden. Wer mag, kann sich Te
 
 | Datum       | Thema     | Weitere Info | Option |
 | ---------- |--------------| ----------| --------------- |
-| 25.04.2024 | KI und Visualisierung | Präsentationen, Flowcharts, Bilder, Videos | [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4083)
+| 25.04.2024 | KI und Visualisierung | Präsentationen, Bilder, Videos | [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4083)
 | 23.05.2024 | Mermaid | JavaScript-basiertes Tool; rendert Markdowndateien zur Erstellung von Diagrammen und Tabellen  | [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4084)
 | 27.06.2024 | R | 10 gute Gründe, weshalb ich mit R arbeite | [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4085)
 | 25.07.2024 | GitLab | Projektorganisation |[Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4086)
