@@ -26,11 +26,11 @@ Ihr müsst nichts mitbringen und euch auch nicht anmelden. Wer mag, kann sich Te
 
 | Datum       | Thema     | Weitere Info | 
 | ---------- |--------------| ----------| 
-| 25.04.2024 | KI und Visualisierung | Präsentationen, Bilder, Videos ([Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4083))
-| 23.05.2024 | Mermaid | JavaScript-basiertes Tool; rendert Markdowndateien zur Erstellung von Diagrammen und Tabellen ([Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4084))
-| 27.06.2024 | R | 10 gute Gründe, weshalb ich mit R arbeite ([Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4085))
-| 25.07.2024 | GitLab | Projektorganisation ([Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4086))
-| 22.08.2024 | Python | Was kann Python und wie kann ich es nutzen? ([Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4087))
+| 25.04.2024 | KI und Visualisierung | Präsentationen, Bilder, Videos -> [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4083)
+| 23.05.2024 | Mermaid | JavaScript-basiertes Tool; rendert Markdowndateien zur Erstellung von Diagrammen und Tabellen -> [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4084)
+| 27.06.2024 | R | 10 gute Gründe, weshalb ich mit R arbeite -> [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4085)
+| 25.07.2024 | GitLab | Projektorganisation -> [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4086)
+| 22.08.2024 | Python | Was kann Python und wie kann ich es nutzen? -> [Save the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4087)
 
 ## Kontakt
 Fragen oder Anregungen? Melde dich gern über unseren [Rocketchat-Channel](https://chat.uni-due.de/invite/uPbB7a) oder per E-Mail bei [Sarah Ann Stock](mailto:sarah.stock@uni-due.de). Oder sprich uns direkt in der HackyHour an.
