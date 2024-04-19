@@ -20,17 +20,17 @@ Kein eigenes Thema aber Interesse? Kein Problem! Im Austausch mit der Gruppe ler
 Für Diskussionen über Themen sind wir immer offen. Wir werden versuchen, in jede HackyHour mit einem spezifischen Thema über einen kleinen Impulsvortrag einzusteigen. Danach ist Zeit für Fragen und Diskussion.  
 Wenn Du auch gern etwas vortragen möchtest oder Dich für ein bestimmtes Thema interessierst, melde Dich gern per [E-Mail](mailto:sarah.stock@uni-due.de) oder über den [Rocketchat-Channel](https://chat.uni-due.de/invite/uPbB7a) bei uns.
 
-Ihr müsst nichts mitbringen und euch auch nicht anmelden. Falls ihr einen Laptop habt, dürft ihr diesen aber mitbringen.
+Ihr müsst nichts mitbringen und euch auch nicht anmelden. Wer mag, kann sich Termine und Infos via "safe the date" per E-Mail schicken lassen. Falls ihr einen Laptop habt, dürft ihr diesen aber mitbringen.
 
 ## Termine
 
-| Datum       | Thema     | Weitere Info |
-| ---------- |--------------| ----------:|
-| 25.04.2024 | KI und Visualisierung | Präsentationen, Flowcharts, Bilder, Videos |
-| 23.05.2024 | Mermaid | JavaScript-basiertes Tool zur Erstellung von Diagrammen und Tabellen  |
-| 27.06.2024 | R | 10 gute Gründe, weshalb ich mit R arbeite |
-| 25.07.2024 | GitLab | Projektorganisation |
-| 22.08.2024 | Python | Was kann Python und wie kann ich es nutzen? |
+| Datum       | Thema     | Weitere Info | Option |
+| ---------- |--------------| ----------| --------------- |
+| 25.04.2024 | KI und Visualisierung | Präsentationen, Flowcharts, Bilder, Videos | [Safe the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4083)
+| 23.05.2024 | Mermaid | JavaScript-basiertes Tool; rendert Markdowndateien zur Erstellung von Diagrammen und Tabellen  | [Safe the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4084)
+| 27.06.2024 | R | 10 gute Gründe, weshalb ich mit R arbeite | [Safe the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4085)
+| 25.07.2024 | GitLab | Projektorganisation |[Safe the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4086)
+| 22.08.2024 | Python | Was kann Python und wie kann ich es nutzen? | [Safe the date](https://www.uni-due.de/ub/schulung/kursuebersicht.php?site=signin&id=4087)
 
 ## Kontakt
 Fragen oder Anregungen? Melde dich gern über unseren [Rocketchat-Channel](https://chat.uni-due.de/invite/uPbB7a) oder per E-Mail bei [Sarah Ann Stock](mailto:sarah.stock@uni-due.de). Oder sprich uns direkt in der HackyHour an.
