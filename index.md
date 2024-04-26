@@ -12,7 +12,7 @@ Vielleicht braucht Ihr ja noch Mitstreiter:innen für ein Coding-Projekt?
 Die Hacky Hour ist keine Lehrveranstaltung! Die Hacky Hour ist eine Community, in der wir uns austauschen und voneinander lernen können.  
 Jede:r ist willkommen, egal, welches Skill-Level Ihr mitbringt!
 
-![HackyHour Image](/images/HackyHour_image.jpg)
+![HackyHour Image](/images/HackyHour_Grafik-blau.png)
 
 ## Wann, wie und welche Themen?
 **Wann:** Jeder vierte Donnerstag im Monat, 16:15-17:15 Uhr
