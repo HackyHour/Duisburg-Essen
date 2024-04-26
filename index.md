@@ -1,16 +1,16 @@
 # HackyHour Duisburg-Essen
 
 ## Was ist die HackyHour?
-### Gemeinsam tüfteln
-Die Hacky Hour ist eure Gelegenheit, mit anderen an Codes, Daten und Tools zu tüfteln, die euch gerade Kopfzerbrechen bereiten. Wir schaffen Euch einen offenen Ort dafür.
-
-### Wissen teilen
-In der Hacky Hour schaut sich die Gruppe Eure praktischen Probleme an und alle lernen neue Tools und Techniken kennen.  
-Vielleicht braucht Ihr ja noch Mitstreiter:innen für ein Coding-Projekt?
-
 ### Community schaffen
 Die Hacky Hour ist keine Lehrveranstaltung! Die Hacky Hour ist eine Community, in der wir uns austauschen und voneinander lernen können.  
 Jede:r ist willkommen, egal, welches Skill-Level Ihr mitbringt!
+
+### Wissen teilen
+In der Hacky Hour schauen wir uns Tools und Techniken an und die Gruppe kann sich bei Bedarf Eure praktischen Probleme ansehen.
+Vielleicht braucht Ihr ja noch Mitstreiter:innen für ein Coding-Projekt?
+
+### Gemeinsam tüfteln
+Die Hacky Hour ist eure Gelegenheit, mit anderen an Codes, Daten und Tools zu tüfteln, die euch gerade Kopfzerbrechen bereiten. Wir schaffen Euch einen offenen Ort dafür.
 
 ![HackyHour Image](/images/HackyHour_Grafik-blau.png)
 
