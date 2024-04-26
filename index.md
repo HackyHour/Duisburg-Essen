@@ -15,7 +15,7 @@ Jede:r ist willkommen, egal, welches Skill-Level Ihr mitbringt!
 ![HackyHour Image](/images/HackyHour_Grafik-blau.png)
 
 ## Wann, wie und welche Themen?
-**Wann:** Jeder vierte Donnerstag im Monat, 16:15-17:15 Uhr
+**Wann:** Jeder vierte Donnerstag im Monat, 16:15-17:15 Uhr   
 **Wo:** In der Fachbibliothek LK (Erdgeschoss), Duisburg. Bitte der Beschilderung in LK folgen.
 
 Mit dem kostenlosen Shuttle-Bus kommt Ihr schnell von einem Campus zum anderen.
