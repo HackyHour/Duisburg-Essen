@@ -40,10 +40,6 @@ Fragen oder Anregungen? Melde dich gern über unseren [Rocketchat-Channel](https
 
 ## Vergangene Termine
 
-Die vergangenen Termine waren überwiegend auf Englisch, daher sind auch 
-die Notizen überwiegend in englischer Sprache. Ab HackyHour 15 versuchen
-wir Notizen in Deutsch und Englisch anzubieten.
-
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
 | 25.04.2024 | KI und Visualisierung |[Notes #1](/notes/2024-04-25-HackyHour-1.md)|
