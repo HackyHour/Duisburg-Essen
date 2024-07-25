@@ -40,7 +40,7 @@ Fragen oder Anregungen? Melde dich gern über unseren [Rocketchat-Channel](https
 
 | Datum | Thema | Notizen & Zusammenfassungen |
 | ---------- |--------------| ----------:|
-| 27.06.2024 | R | [Notes #3](/notes/2024-06-27-HackyHour-3.md)
+| 27.06.2024 | R | [Notes #3](/notes/2024-06-27_HackyHour-3.md)
 | 23.05.2024 | Mermaid | [Notes #2](/notes/2024-05-23_HackyHour-2.md)
 | 25.04.2024 | KI und Visualisierung |[Notes #1](/notes/2024-04-25-HackyHour-1.md)|
 
